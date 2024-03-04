@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "599421552814",
+    "project_id": "the-laughie-app",
+    "storage_bucket": "the-laughie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599421552814:android:375ceba46214f28f2ac53f",
+        "android_client_info": {
+          "package_name": "com.example.thelaughieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQV7TNk7iFBqO0q3obGsQfHpeLGQmmOOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
